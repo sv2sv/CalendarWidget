@@ -1,0 +1,105 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/widget_margin">
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+        <ImageButton
+            android:id="@+id/pre"
+            android:src="@drawable/ic_previous_month"
+            style="?android:borderlessButtonStyle"
+            android:layout_width="56dp"
+            android:layout_height="match_parent" />
+        <Button
+
+            android:layout_weight="2"
+            android:id="@+id/system"
+            style="?android:borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <ImageButton
+
+            android:id="@+id/next"
+            android:src="@drawable/ic_next_month"
+            style="?android:borderlessButtonStyle"
+            android:layout_width="56dp"
+            android:layout_height="match_parent" />
+        <Button
+            android:gravity="center"
+            android:text="today"
+            android:id="@+id/reseet"
+            style="?android:borderlessButtonStyle"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/weeks"
+        android:layout_width="match_parent"
+        android:layout_height="35dp">
+        <TextView
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/week1"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/week2"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/week3"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/week4"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/week5"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/week6"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/week7"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <GridView
+        android:verticalSpacing="4dip"
+        android:horizontalSpacing="4dip"
+        android:columnWidth="80dip"
+        android:numColumns="7"
+        android:id="@+id/grid"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"></GridView>
+
+</LinearLayout>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/local/aSdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_11491974432c1735cef23fc83114fccfbacf37da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_530e07b76a3d7328b1b534902c056651a4b6f7c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_5e488bd3d11c6ba600bee0e53a95d79814c12aee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_75b7e3b8497058c8bef386a6ed8337ac1665172e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_af3cff584a19abf1213897ac453102d9f73c04fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_edd47bd1333621ae17cd032a023ee9f90bb00814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce45d07f6631d9595cd462504577b5ba51d9d0b4">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f12eebd7c7c6da10a3a8391de6fd3b5b7a291bf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_1ae9b33d80df986a635efbb62f0fd195fc1f110f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_66ae4f239abcb8dda1269204cd9380895381f8b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_f99700bcc85a502ecf3e39dc609c43873d9d3581/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7de5bea9e59765fbf8dea944c94fa8cd677622af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d99121e41cb6c0c0454bbeb8a155f447ae8d0d1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_0117edc69293fcee772dbfe88fa156455f5beaca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_83ea3fa2ea3e25ef70333e40824b63eade4775a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_cdd7a47c4d41702963bc6ba91712c10c6d2a1894/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_385659ab91a28cc48466f3dc197177f18a7534ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="895b6cbb1df038a5232b563486826606035b082e">
+        <dex dex="/home/wangyao/StudioProjects/MyCalendarWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97e86bc288f24e84a0b13d755707cf2dd2e9bbaf/classes.dex" />
+    </item>
+
+</items>
