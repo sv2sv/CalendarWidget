@@ -8,6 +8,7 @@ public class Day {
     boolean inMonth;
     boolean isToday;
     int day;
+    int f;
 
     public Day(boolean isMonth, boolean isToday, int day) {
         this.inMonth = isMonth;
